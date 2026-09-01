@@ -1,4 +1,4 @@
-## Robert S. Piecyk
+## Robert Piecyk
 
 Postdoctoral researcher at LMU University Hospital, Munich, in the Department of
 Radiotherapy and Radiation Oncology (he/him). Affiliated with BZKF and DKTK Munich.
