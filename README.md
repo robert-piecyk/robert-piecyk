@@ -1,15 +1,17 @@
 ## Robert Piecyk
 
 Postdoctoral researcher at LMU University Hospital, Munich, in the Department of
-Radiotherapy and Radiation Oncology (he/him). Affiliated with BZKF and DKTK Munich.
+Radiotherapy and Radiation Oncology.
 
 Computational biology and bioinformatics, grounded in statistics and deep learning, with
 an emphasis on developing and implementing the analysis tools a study needs. Currently
-working in translational oncology, including multi-omics analyses, computational
-pathology, and medical imaging. My PhD was in epigenomics, which remains a research
-interest: DNA methylation, Hi-C, and the integration of both with expression data. It
-produced tools for calling and benchmarking differentially methylated regions in WGBS
-data.
+working in translational oncology on multi-omics analyses and medical imaging, coupled
+with clinical association. My main focus is building end-to-end pipelines and
+integrating epigenetic layers with other omics and clinical data.
+
+My PhD was in epigenomics and it remains a research interest: DNA methylation, Hi-C, and
+how both relate to expression. That work produced the tools for calling and benchmarking
+differentially methylated regions listed below.
 
 ### Skills
 
