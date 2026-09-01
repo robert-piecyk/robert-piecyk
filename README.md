@@ -6,9 +6,10 @@ Radiotherapy and Radiation Oncology (he/him). Affiliated with BZKF and DKTK Muni
 Computational biology and bioinformatics, with an emphasis on developing and
 implementing the analysis tools a study needs. Currently working in translational
 oncology, including multi-omics analyses, computational pathology, and medical imaging.
-Earlier work in epigenomics covered DNA methylation and Hi-C data, including tools for
-calling and benchmarking differentially methylated regions in WGBS data. First- and
-co-authored work published in Nature, PNAS and Nature Communications.
+My PhD was in epigenomics, which remains a research interest: DNA methylation, Hi-C,
+and the integration of both with expression data. It produced tools for calling and
+benchmarking differentially methylated regions in WGBS data. First- and co-authored work
+published in Nature, PNAS and Nature Communications.
 
 [Website](https://robert-piecyk.github.io) ·
 [Google Scholar](https://scholar.google.com/citations?user=v8gjQjUAAAAJ) ·
@@ -32,5 +33,3 @@ co-authored work published in Nature, PNAS and Nature Communications.
 | [voxelmetry](https://github.com/robert-piecyk/voxelmetry) | Morphometry and 3-D visualisation for CT and MR segmentations. Reads DICOM series, DICOM SEG, NIfTI and NRRD, and reports volume, Feret diameter, surface area and sphericity in physical units. Voxel spacing is carried through resampling and cropping. Output is a self-contained HTML viewer. Validated against analytic phantoms and cross-checked against SimpleITK. | Python |
 | [jDMR](https://github.com/robert-piecyk/jDMR) | Heuristic caller for differentially methylated regions in large-scale WGBS data. Methylation states are called with a hidden Markov model over either cytosine clusters or sliding genomic windows; samples are then merged and non-polymorphic patterns filtered. Designed for population-level studies and control/treatment designs. | R |
 | DMRspiker *(not yet public)* | Semi-synthetic benchmark generator for WGBS. Injects ground-truth DMRs into a real wild-type methylome, preserving its empirical coverage and cytosine-density structure. Supports both focal regulatory and broad chromatin-domain DMRs. Hyperparameters are derived from the source methylomes. Used to tune and benchmark DMR callers. | R |
-
-Munich, Germany · robert.s.piecyk@gmail.com
