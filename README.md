@@ -21,10 +21,10 @@ published in Nature, PNAS and Nature Communications.
 | | |
 |:---|:---|
 | **Languages** | Python, R, Bash |
-| **Machine learning** | PyTorch, Lightning, Hugging Face Transformers, timm, XGBoost, scikit-learn. Deep learning on images and genomic sequence, gradient boosting, hidden Markov models, survival analysis, mixture models |
-| **Omics** | Bulk, single-cell and spatial transcriptomics (Scanpy, AnnData, Seurat); cell-type deconvolution (CIBERSORTx, EcoTyper); WGBS methylation; Hi-C |
-| **Imaging** | Whole-slide images (OpenSlide, pathology foundation models); DICOM, DICOM SEG, NIfTI, NRRD; SimpleITK, scikit-image, OpenCV |
-| **Engineering** | Packaging, testing and CI (pytest, ruff, GitHub Actions); SLURM and HPC; Singularity; Git; reproducible pipelines |
+| **Machine learning** | PyTorch, Lightning, Hugging Face, timm, XGBoost, scikit-learn, glmnet. Deep learning on images and genomic sequence, survival analysis, hidden Markov models |
+| **Omics** | Bulk, single-cell and spatial transcriptomics (Seurat, Signac, Scanpy); differential expression and batch correction (DESeq2, limma, edgeR, sva); deconvolution (CIBERSORTx, EcoTyper); methylation (minfi, ChAMP, METHimpute); Hi-C |
+| **Imaging** | Whole-slide imaging (OpenSlide, QuPath, HistomicsTK) and pathology foundation models; DICOM, NIfTI, NRRD; SimpleITK, scikit-image, OpenCV |
+| **Engineering** | pytest, ruff, GitHub Actions; SLURM and HPC; Docker, Singularity; Zarr, HDF5, Parquet; Git |
 
 ### Software
 
