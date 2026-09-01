@@ -13,7 +13,7 @@ pipelines and integrating epigenetic layers with other omics and clinical data.
 
 | | |
 |:---|:---|
-| **Languages** | Python, R, Bash |
+| **Languages** | Python, R, Bash, SQL |
 | **Machine learning** | PyTorch, Lightning, Hugging Face, timm, XGBoost, scikit-learn. Deep learning on images and genomic sequence, gradient boosting, survival analysis, hidden Markov and mixture models |
 | **Omics** | Bulk, single-cell and spatial transcriptomics; differential expression and batch correction; cell-type deconvolution; multi-omics integration |
 | **Epigenomics** | CUT&RUN, ChIP-seq, ATAC-seq and Hi-C; peak calling, annotation and differential binding; motif and region enrichment; DNA methylation from arrays and WGBS; methylome deconvolution |
