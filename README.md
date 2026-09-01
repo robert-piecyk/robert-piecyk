@@ -12,7 +12,8 @@ example, and results reported with their limitations attached.
 
 [Website](https://robert-piecyk.github.io) ·
 [Google Scholar](https://scholar.google.com/citations?user=v8gjQjUAAAAJ) ·
-[ORCID](https://orcid.org/0009-0002-1912-4487)
+[ORCID](https://orcid.org/0009-0002-1912-4487) ·
+[LinkedIn](https://www.linkedin.com/in/robert-piecyk)
 
 ### What I am working on
 
@@ -40,5 +41,6 @@ quality flags on figures that cannot support their own conclusions.
 |:---|:---|:---|
 | [voxelmetry](https://github.com/robert-piecyk/voxelmetry) | Measures organs and lesions in CT and MR segmentations in millimetres and litres, and writes an interactive 3-D viewer as a single HTML file. Reads DICOM series, DICOM SEG, NIfTI and NRRD, keeping voxel spacing attached to the data so measurements do not drift when the grid changes. Validated against analytic phantoms and against SimpleITK. | Python |
 | [jDMR](https://github.com/robert-piecyk/jDMR) | A fast, heuristic caller for differentially methylated regions in large-scale WGBS data. Calls methylation states with a hidden Markov model over either cytosine clusters or sliding genomic windows, then filters non-polymorphic patterns across merged samples. Built for population-level studies as well as control/treatment designs. | R |
+| DMRspiker *(not yet public)* | A semi-synthetic benchmark generator for WGBS. Injects ground-truth differentially methylated regions into a real wild-type methylome while preserving its empirical coverage and cytosine-density structure, so DMR callers can be tuned and scored against a known answer under realistic conditions. Simulates both focal regulatory DMRs and broad chromatin-domain DMRs, and derives every hyperparameter from the source methylomes rather than picking it. | R |
 
 Munich, Germany · robert.s.piecyk@gmail.com
