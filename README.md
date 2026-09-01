@@ -8,13 +8,7 @@ implementing the analysis tools a study needs. Currently working in translationa
 oncology, including multi-omics analyses, computational pathology, and medical imaging.
 My PhD was in epigenomics, which remains a research interest: DNA methylation, Hi-C,
 and the integration of both with expression data. It produced tools for calling and
-benchmarking differentially methylated regions in WGBS data. First- and co-authored work
-published in Nature, PNAS and Nature Communications.
-
-[Website](https://robert-piecyk.github.io) ·
-[Google Scholar](https://scholar.google.com/citations?user=v8gjQjUAAAAJ) ·
-[ORCID](https://orcid.org/0009-0002-1912-4487) ·
-[LinkedIn](https://www.linkedin.com/in/robert-piecyk)
+benchmarking differentially methylated regions in WGBS data. 
 
 ### Skills
 
