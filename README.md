@@ -3,8 +3,8 @@
 Postdoctoral researcher at LMU University Hospital, Munich, in the Department of
 Radiotherapy and Radiation Oncology (he/him). Affiliated with BZKF and DKTK Munich.
 
-Computational biology and bioinformatics, with an emphasis on developing and
-implementing the analysis tools a study needs. Currently working in translational
+Computational biology and bioinformatics, grounded in statistics and deep learning,
+with an emphasis on developing and implementing the analysis tools a study needs. Currently working in translational
 oncology, including multi-omics analyses, computational pathology, and medical imaging.
 My PhD was in epigenomics, which remains a research interest: DNA methylation, Hi-C,
 and the integration of both with expression data. It produced tools for calling and
@@ -17,7 +17,7 @@ benchmarking differentially methylated regions in WGBS data.
 | **Languages** | Python, R, Bash |
 | **Machine learning** | PyTorch, Lightning, Hugging Face, timm, XGBoost, scikit-learn, glmnet. Deep learning on images and genomic sequence, survival analysis, hidden Markov models |
 | **Omics** | Bulk, single-cell and spatial transcriptomics (Seurat, Signac, Scanpy); differential expression and batch correction (DESeq2, limma, edgeR, sva); deconvolution (CIBERSORTx, EcoTyper) |
-| **Epigenomics** | CUT&RUN, ChIP-seq, ATAC-seq and Hi-C; DNA methylation (minfi, ChAMP, METHimpute); peak annotation and differential binding (ChIPseeker, DiffBind, rtracklayer); motif analysis (TFBSTools, JASPAR) |
+| **Epigenomics** | CUT&RUN, ChIP-seq, ATAC-seq and Hi-C; peak annotation, differential binding and enrichment (ChIPseeker, DiffBind, LOLA); motif analysis (TFBSTools, JASPAR); DNA methylation from arrays and WGBS (minfi, ChAMP, RnBeads, METHimpute) with reference-free and reference-based deconvolution (EpiDISH, latent methylation components) |
 | **Imaging** | Whole-slide imaging (OpenSlide, QuPath, HistomicsTK) and pathology foundation models; DICOM, NIfTI, NRRD; SimpleITK, scikit-image, OpenCV |
 | **Engineering** | pytest, ruff, GitHub Actions; SLURM and HPC; Docker, Singularity; Zarr, HDF5, Parquet; Git |
 
