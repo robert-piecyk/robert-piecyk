@@ -3,12 +3,13 @@
 Postdoctoral researcher at LMU University Hospital, Munich, in the Department of
 Radiotherapy and Radiation Oncology (he/him). Affiliated with BZKF and DKTK Munich.
 
-Computational biology and bioinformatics, grounded in statistics and deep learning,
-with an emphasis on developing and implementing the analysis tools a study needs. Currently working in translational
-oncology, including multi-omics analyses, computational pathology, and medical imaging.
-My PhD was in epigenomics, which remains a research interest: DNA methylation, Hi-C,
-and the integration of both with expression data. It produced tools for calling and
-benchmarking differentially methylated regions in WGBS data.
+Computational biology and bioinformatics, grounded in statistics and deep learning, with
+an emphasis on developing and implementing the analysis tools a study needs. Currently
+working in translational oncology, including multi-omics analyses, computational
+pathology, and medical imaging. My PhD was in epigenomics, which remains a research
+interest: DNA methylation, Hi-C, and the integration of both with expression data. It
+produced tools for calling and benchmarking differentially methylated regions in WGBS
+data.
 
 ### Skills
 
