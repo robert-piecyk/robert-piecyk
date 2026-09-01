@@ -3,9 +3,11 @@
 Postdoctoral researcher at LMU University Hospital, Munich, in the Department of
 Radiotherapy and Radiation Oncology (he/him). Affiliated with BZKF and DKTK Munich.
 
-Bioinformatics and data science applied to cancer: bulk and spatial transcriptomics,
-computational pathology, and medical imaging. Previously plant epigenomics, working on
-DNA methylation, heterochromatin, and the inheritance of epigenetic variation.
+Computational biology and bioinformatics, with an emphasis on developing and
+implementing the analysis tools a study needs. Current work is in cancer: bulk and
+spatial transcriptomics, computational pathology, and medical imaging. Earlier work in
+epigenomics covered DNA methylation and heterochromatin, including tools for calling and
+benchmarking differentially methylated regions in WGBS data.
 
 [Website](https://robert-piecyk.github.io) ·
 [Google Scholar](https://scholar.google.com/citations?user=v8gjQjUAAAAJ) ·
