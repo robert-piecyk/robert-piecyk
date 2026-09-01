@@ -9,10 +9,6 @@ working in translational oncology on multi-omics analyses, computational patholo
 medical imaging, coupled with clinical association. My main focus is building end-to-end
 pipelines and integrating epigenetic layers with other omics and clinical data.
 
-My PhD was in epigenomics and it remains a research interest: DNA methylation, Hi-C, and
-how both relate to expression. That work produced the tools for calling and benchmarking
-differentially methylated regions listed below.
-
 ### Skills
 
 | | |
