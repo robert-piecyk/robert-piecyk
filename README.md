@@ -4,15 +4,26 @@ Postdoctoral researcher at LMU University Hospital, Munich, in the Department of
 Radiotherapy and Radiation Oncology (he/him). Affiliated with BZKF and DKTK Munich.
 
 Computational biology and bioinformatics, with an emphasis on developing and
-implementing the analysis tools a study needs. Current work is in cancer: bulk and
-spatial transcriptomics, computational pathology, and medical imaging. Earlier work in
-epigenomics covered DNA methylation and heterochromatin, including tools for calling and
-benchmarking differentially methylated regions in WGBS data.
+implementing the analysis tools a study needs. Currently working in translational
+oncology, including multi-omics analyses, computational pathology, and medical imaging.
+Earlier work in epigenomics covered DNA methylation and Hi-C data, including tools for
+calling and benchmarking differentially methylated regions in WGBS data. First- and
+co-authored work published in Nature, PNAS and Nature Communications.
 
 [Website](https://robert-piecyk.github.io) ·
 [Google Scholar](https://scholar.google.com/citations?user=v8gjQjUAAAAJ) ·
 [ORCID](https://orcid.org/0009-0002-1912-4487) ·
 [LinkedIn](https://www.linkedin.com/in/robert-piecyk)
+
+### Skills
+
+| | |
+|:---|:---|
+| **Languages** | Python, R, Bash |
+| **Machine learning** | PyTorch, Lightning, Hugging Face Transformers, timm, XGBoost, scikit-learn. Deep learning on images and genomic sequence, gradient boosting, hidden Markov models, survival analysis, mixture models |
+| **Omics** | Bulk, single-cell and spatial transcriptomics (Scanpy, AnnData, Seurat); cell-type deconvolution (CIBERSORTx, EcoTyper); WGBS methylation; Hi-C |
+| **Imaging** | Whole-slide images (OpenSlide, pathology foundation models); DICOM, DICOM SEG, NIfTI, NRRD; SimpleITK, scikit-image, OpenCV |
+| **Engineering** | Packaging, testing and CI (pytest, ruff, GitHub Actions); SLURM and HPC; Singularity; Git; reproducible pipelines |
 
 ### Software
 
